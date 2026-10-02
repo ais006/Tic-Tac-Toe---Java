@@ -51,6 +51,4 @@ java-tic-tac-toe
     └── TicTacToe.java
 ```
 
-## Author
 
-Java student project.
